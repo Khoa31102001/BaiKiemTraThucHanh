@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header .header-list .header-list-item:hover {
+    background-color: #ccc;
+}
+
+#header .search:hover {
+    background-color: #f43759;
+}
+#main p{
+    font-size: 0.9rem;
+}
+.text-underline{
+    text-decoration: underline;
+}
+.font-lato{
+    font-family: 'Lato', sans-serif;
+}
